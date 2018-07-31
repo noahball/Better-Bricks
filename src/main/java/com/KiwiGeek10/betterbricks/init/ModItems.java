@@ -12,6 +12,4 @@ public class ModItems
 	
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
-	public static final Item MAGICAL_CLAY = new ItemBase("magical_clay");
-	
 }

@@ -1,1 +1,17 @@
-item.magical_clay.name=Magical Clay
+//Blocks
+tile.white_bricks.name=White Bricks
+tile.red_bricks.name=Red Bricks
+tile.orange_bricks.name=Orange Bricks
+tile.pink_bricks.name=Pink Bricks
+tile.yellow_bricks.name=Yellow Bricks
+tile.lime_bricks.name=Lime Bricks
+tile.green_bricks.name=Green Bricks
+tile.light_blue_bricks.name=Light Blue Bricks
+tile.cyan_bricks.name=Cyan Bricks
+tile.blue_bricks.name=Blue Bricks
+tile.magenta_bricks.name=Magenta Bricks
+tile.purple_bricks.name=Purple Bricks
+tile.brown_bricks.name=Brown Bricks
+tile.gray_bricks.name=Gray Bricks
+tile.light_gray_bricks.name=Light Gray Bricks
+tile.black_bricks.name=Black Bricks
